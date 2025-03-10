@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="lavalle_assembler_es02"/>
+        <attribute name="authors" value="root"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-03-10 09:58:47 AM"/>
+        <attribute name="created" value="cm9vdDtFRTAyODMyM0UyRTc7MjAyNS0wMy0xMDswOTo1NToyOSBBTTsyNDEx"/>
+        <attribute name="edited" value="cm9vdDtFRTAyODMyM0UyRTc7MjAyNS0wMy0xMDswOTo1ODo0NyBBTTsxOzI1MjI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, c, s" type="Integer" array="False" size=""/>
+            <assign variable="a" expression="2"/>
+            <assign variable="b" expression="4"/>
+            <assign variable="c" expression="6"/>
+            <assign variable="s" expression="2*a+3*b-c"/>
+        </body>
+    </function>
+</flowgorithm>
